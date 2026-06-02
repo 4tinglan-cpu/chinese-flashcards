@@ -1,0 +1,18 @@
+{
+  "name": "Chinese Flashcards",
+  "short_name": "Flashcards",
+  "description": "Learn Chinese with flashcards, dictionary lookup, and quizzes",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#e74c3c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%23e74c3c'/><text x='256' y='340' text-anchor='middle' font-size='260' fill='white'>字</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
